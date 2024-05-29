@@ -14,6 +14,7 @@ public class App
         System.out.println("checking pull  (fetcch and merge)");
         System.out.println("mm");
         System.out.println("checked");
+        System.out.println("merge");
 
     }
 }
