@@ -15,6 +15,7 @@ public class App
         System.out.println("mm");
         System.out.println("checked");
         System.out.println("merge");
+        System.out.println("chekin pull request");
 
     }
 }
