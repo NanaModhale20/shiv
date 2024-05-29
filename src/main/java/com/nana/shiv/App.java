@@ -17,6 +17,7 @@ public class App
         System.out.println("merge");
         System.out.println("chekin pull request");
         System.out.println("second");
+        System.out.println("third");
 
     }
 }
